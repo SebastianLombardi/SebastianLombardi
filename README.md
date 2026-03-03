@@ -11,10 +11,15 @@ Experiencia en Compras – Industria Automotriz
 Durante cuatro años trabajé en el área de compras (procurement) en una compañía de gran escala dentro de la industria automotriz. En este rol desarrollé una comprensión profunda de:
 
 Gestión de proveedores
+
 Negociación estratégica
+
 Análisis de costos
+
 Evaluación de riesgos
+
 Planificación y abastecimiento
+
 Optimización de procesos
 
 Trabajar en compras me permitió entender cómo las decisiones impactan directamente en la rentabilidad y competitividad del negocio. No se trataba solo de negociar precios, sino de analizar datos, proyectar escenarios, evaluar indicadores y tomar decisiones estratégicas con información concreta.
@@ -28,9 +33,13 @@ Impulsado por mi interés genuino por los datos y la mejora continua, decidí or
 En esta nueva etapa profesional:
 
 Transformo datos en información accionable
+
 Construyo dashboards e informes para la toma de decisiones
+
 Analizo tendencias y patrones
+
 Identifico oportunidades de mejora
+
 Aporto claridad en entornos complejos
 
 Mi experiencia previa en negocio me permite entender el contexto detrás de los números. No analizo datos de forma aislada: busco comprender el impacto real en la estrategia y los resultados de la organización.
@@ -68,9 +77,13 @@ Mi combinación de experiencia en negocio y análisis de datos me permite actuar
 Algunos de los valores que aporto:
 
 Claridad en la toma de decisiones
+
 Análisis estructurado y fundamentado
+
 Capacidad para priorizar lo relevante
+
 Comunicación directa y objetiva
+
 Compromiso con la calidad
 
 Además, tengo altos estándares personales, lo que me impulsa a buscar precisión y excelencia en cada proyecto.
@@ -80,10 +93,15 @@ Además, tengo altos estándares personales, lo que me impulsa a buscar precisi�
 Para mí, el análisis de datos no es solo generar gráficos o reportes. Es:
 
 Comprender el problema de negocio
+
 Formular las preguntas correctas
+
 Identificar las métricas clave
+
 Analizar con criterio
+
 Comunicar hallazgos de forma clara
+
 Generar impacto real
 
 Creo firmemente que los datos tienen valor cuando influyen en decisiones concretas.
@@ -95,8 +113,11 @@ Uno de mis principales motores es el aprendizaje autodirigido. Disfruto profundi
 Mi desarrollo profesional no se basa únicamente en adquirir habilidades técnicas, sino también en fortalecer:
 
 Comunicación efectiva
+
 Inteligencia emocional
+
 Colaboración interdisciplinaria
+
 Adaptabilidad
 
 Entiendo que el verdadero impacto surge cuando el conocimiento técnico se combina con habilidades interpersonales sólidas.
@@ -106,9 +127,13 @@ Entiendo que el verdadero impacto surge cuando el conocimiento técnico se combi
 Valoro entornos donde:
 
 Se fomenta el pensamiento crítico
+
 Se cuestionan procesos para mejorarlos
+
 Se prioriza la eficiencia
+
 Se respeta la autonomía
+
 Se promueve el aprendizaje
 
 Prefiero conversaciones profundas y orientadas a soluciones antes que dinámicas superficiales. Mi estilo es directo y racional, pero siempre enfocado en generar valor.
@@ -116,10 +141,15 @@ Prefiero conversaciones profundas y orientadas a soluciones antes que dinámicas
 🌱 Objetivos Profesionales
 
 Mi objetivo es seguir consolidándome como profesional en el ámbito del análisis de datos, ampliando mi capacidad para:
+
 Diseñar soluciones basadas en datos
+
 Participar en decisiones estratégicas
+
 Liderar iniciativas de optimización
+
 Generar impacto medible en organizaciones
+
 Busco proyectos desafiantes que me permitan pensar estratégicamente, analizar en profundidad y contribuir a mejoras significativas.
 
 
