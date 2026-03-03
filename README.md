@@ -1,4 +1,4 @@
-👋 Sobre mí
+👋 Sobre mí:
 Sebastián Lombardi
 
 Soy un profesional analítico y estratégico, actualmente desempeñándome como Data Analyst, con una trayectoria previa de cuatro años en el área de compras dentro de la industria automotriz. Mi perfil combina visión de negocio, pensamiento crítico y una fuerte orientación a la optimización de procesos y toma de decisiones basada en datos.
